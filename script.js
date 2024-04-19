@@ -23,4 +23,4 @@
 
 const test = require("./FRUITS");
 
-console.log(test);
+console.log(test[1].test);
