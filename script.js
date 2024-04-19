@@ -14,6 +14,9 @@
 //     console.log("Welcome", args[i]);
 // }
 
-const printValue = require("./math");
+const math = require("./math");
 
-console.log(printValue);
+console.log(math);
+
+console.log(math.sum(2, 3));
+console.log(math.PI);
