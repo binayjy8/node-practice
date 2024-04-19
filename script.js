@@ -8,8 +8,12 @@
 
 // console.log(process.argv);
 
-let args = process.argv;
+// let args = process.argv;
 
-for(let i=0; i<args.length; i++) {
-    console.log("Welcome", args[i]);
-}
+// for(let i=0; i<args.length; i++) {
+//     console.log("Welcome", args[i]);
+// }
+
+const printValue = require("./math");
+
+console.log(printValue);
