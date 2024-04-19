@@ -1,4 +1,4 @@
 module.exports = {
-    name: Angur,
-    test: Khata,
+    name: "Angur",
+    test: "Khata",
 };

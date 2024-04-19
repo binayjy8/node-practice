@@ -21,6 +21,6 @@
 // console.log(math.sum(2, 3));
 // console.log(math.PI);
 
-const info = require("./FRUITS");
+const test = require("./FRUITS");
 
-console.log(info);
+console.log(test);
