@@ -1,6 +1,6 @@
-module.exports.PI = 3.14;
-module.exports.mul = (a, b) => a*b;
-module.exports.sum = (a, b) => a+b;
+// module.exports.PI = 3.14;
+// module.exports.mul = (a, b) => a*b;
+// module.exports.sum = (a, b) => a+b;
 
 // module.exports = {
 //     mul: mul,
@@ -9,3 +9,4 @@ module.exports.sum = (a, b) => a+b;
 // }
 
 // module.exports = obj;
+

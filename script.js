@@ -14,9 +14,13 @@
 //     console.log("Welcome", args[i]);
 // }
 
-const math = require("./math");
+// const math = require("./math");
 
-console.log(math);
+// console.log(math);
 
-console.log(math.sum(2, 3));
-console.log(math.PI);
+// console.log(math.sum(2, 3));
+// console.log(math.PI);
+
+const test = require("./FRUITS");
+
+console.log(test);
