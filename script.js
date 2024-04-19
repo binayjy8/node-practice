@@ -1,7 +1,9 @@
-let a = 4;
+// let a = 4;
 
-for(let i=0; i<a; i++) {
-    console.log("hello");
-}
+// for(let i=0; i<a; i++) {
+//     console.log("hello");
+// }
 
-console.log("bye");
+// console.log("bye");
+
+console.log(process.argv);
