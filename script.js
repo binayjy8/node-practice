@@ -21,6 +21,11 @@
 // console.log(math.sum(2, 3));
 // console.log(math.PI);
 
-const test = require("./FRUITS");
+// const test = require("./FRUITS");
 
-console.log(test[0].test);
+// console.log(test[0].test);
+
+import { generate } from "random-words";
+
+
+console.log(generate());
